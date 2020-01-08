@@ -8,6 +8,8 @@ import 'amfe-flexible'
 
 import './styles/index.less' // 引入css样式
 
+import './utils/validation' // 引入校验表单js文件
+
 Vue.config.productionTip = false
 
 new Vue({
